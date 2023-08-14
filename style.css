@@ -1,0 +1,28 @@
+/* Customize the left and right content styles as needed */
+
+
+.left-content {
+    background-color: #8f4c4c;
+    padding: 50px;
+    min-height: 500px;
+  }
+  
+  .right-content {
+    background-color: #99e9e9;
+    padding: 50px;
+    min-height: 500px;
+  }
+  @media (max-width: 767px) {
+  .right-content {
+    display: none; /* Hide the right content on small screens */
+  }
+  #showRightBtn{
+    margin-left: 100px;
+  }
+}
+  
+
+
+
+  
+  
