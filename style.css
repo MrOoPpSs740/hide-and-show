@@ -21,6 +21,11 @@
   }
 }
   
+.show-btn{
+  position: absolute;
+        top: 0px; /* Adjust the top positioning as needed */
+        right: 15px; /* Adjust the right positioning as needed */
+  }
 
 
 
